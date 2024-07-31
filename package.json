@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "http://Kshitiz1111.github.io/tempdeploy",
+  "homepage": "https://Kshitiz1111.github.io/tempdeploy",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.0",
